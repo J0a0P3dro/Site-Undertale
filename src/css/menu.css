@@ -15,9 +15,9 @@ body {
 }
 
 .logo img  {
-    max-width: 850px;
-    margin-top: -70px;
-    margin-bottom: -90px;
+    max-width: 950px;
+    margin-top: -130px;
+    margin-bottom: -95px;
 }
 
 .locais {
@@ -28,7 +28,7 @@ body {
 
 .locais ul li  {
     display: inline-block;
-    margin: 0 30px 0 30px;
+    margin: 25px;
     font-size: 40px; 
    
 }
@@ -36,13 +36,13 @@ body {
 .gramado-frisk {
     display: flex;
     justify-content: center;
-    margin-top: 90px;
+    margin-top: 40px;
 }
 
 .localizacao a:hover {
     color: white;
-    padding: 20px;
-    transition: 0.3s ;
+    padding: 15px 15px;
+    transition: 0.3s ease-in-out;
 }
 
 .ruinas a {
