@@ -7,9 +7,24 @@
     --roxo: #ff00ff; 
     --amarelo: #ffff00;
 
-    --ruinas:#b962b9;
-    --nevada: #bbcbea;
-    --cachoeira: #00d9ff;
-    --terra-quente: #b25700;
-    --nova-casa: #808080;
+    /* ruinas */
+    --ruinas-primária:#b962b9;
+	--ruinas-secundária:#a349a4;
+
+    /* nevada  */
+    --nevada-primária:#bbcbea;
+	--nevada-secundária:#a0b7e0;
+
+    /* cachoeira  */
+    --cachoeira-primária:#00d9ff;
+	--cachoeira-secundária:#05edfb;
+
+
+    /* terraquente  */
+    --terraquente-primária:#b25700;
+	--terraquente-secundária:#902306;
+
+    /* nova-casa */
+    --nova-casa-primária:#808080;
+	--nova-casa-secundária:#a9a9a9;
 }
