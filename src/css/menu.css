@@ -46,47 +46,47 @@ body {
 }
 
 .ruinas a {
-    color: var(--ruinas);
+    color: var(--ruinas-primária);
 }
 
 .ruinas:hover {
-    background-color: var(--ruinas);
+    background-color: var(--ruinas-primária);
     border-radius: 50px;
 }
 
 .nevada a {
-    color: var(--nevada);
+    color: var(--nevada-primária);
 }
 
 .nevada:hover {
-    background-color: var(--nevada);
+    background-color: var(--nevada-primária);
     border-radius: 50px;
 }
 
 .cachoeira a {
-    color: var(--cachoeira);
+    color: var(--cachoeira-primária);
 }
 
 .cachoeira:hover {
-    background-color: var(--cachoeira);
+    background-color: var(--cachoeira-primária);
     border-radius: 50px;
 }
 
-.terra-quente a {
-    color: var(--terra-quente);
+.terraquente a {
+    color: var(--terraquente-primária);
 }
 
-.terra-quente:hover {
-    background-color: var(--terra-quente);
+.terraquente:hover {
+    background-color: var(--terraquente-primária);
     border-radius: 50px;
 }
 
 .nova-casa a {
-    color: var(--nova-casa);
+    color: var(--nova-casa-primária);
 }
 
 .nova-casa:hover {
-    background-color: var(--nova-casa);
+    background-color: var(--nova-casa-primária);
     border-radius: 50px;
 }
 
