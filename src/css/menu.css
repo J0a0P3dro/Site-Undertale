@@ -20,13 +20,13 @@ body {
     margin-bottom: -95px;
 }
 
-.locais {
+.areas {
     display: flex;
     justify-content: center;
     font-family: 'undertale';
 }
 
-.locais ul li  {
+.areas ul li  {
     display: inline-block;
     margin: 25px;
     font-size: 40px; 
